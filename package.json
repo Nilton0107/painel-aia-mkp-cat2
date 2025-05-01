@@ -1,5 +1,5 @@
 {
-  "name": "painel-aia-mkp-cat1",
+  "name": "painel-aia-mkp-cat2",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -8,7 +8,9 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "jspdf": "^2.5.1",
+    "html2canvas": "^1.4.1"
   },
   "devDependencies": {
     "vite": "^4.0.0"
