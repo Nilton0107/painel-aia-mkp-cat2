@@ -1,9 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import AIAMKPCat1Panel from "./Painel";
+import AIAMKPCat2 from "./Painel";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <AIAMKPCat1Panel />
+    <AIAMKPCat2 />
   </React.StrictMode>
 );
